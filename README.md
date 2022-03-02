@@ -1,2 +1,2 @@
 # AlignSignals-python
-Implementation to align signals in time
+(In development) Implementation to align signals in time
